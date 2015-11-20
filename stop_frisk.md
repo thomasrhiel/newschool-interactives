@@ -1,0 +1,6 @@
+- 284229 black 0.5475946441
+- 35772 black Hispanic 0.06891821597
+- 129368 white Hispanic 0.2492399576
+- 50366 white 0.09703496773
+- 17058 Asian/Pacific Islander 0.03286388595
+- 2257 Am. Indian/ Native Alaskan 0.004348328677
